@@ -1,0 +1,16 @@
+p {
+    font-size: 16px;
+    font-family: arial;
+    font-weight: bold;
+}
+
+ul {
+    list-style: none;
+}
+
+
+li {
+    font-family: arial;
+    font-size: 16px;
+    color: #000000;
+}
